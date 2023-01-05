@@ -10,7 +10,7 @@ Please always refer to the [main page of this repository](https://github.com/int
 ## Project Ideas
 You can also propose your own.
 
-### Ingestors and Scanners: new plugins types for IntelOwl
+### 1. Ingestors and Scanners: new plugins types for IntelOwl
 <b>Mentors</b>: Matteo Lodi, Daniele Rosetti, Simone Berni
 
 <b>Project URL</b>: [IntelOwl](https://github.com/intelowlproject/IntelOwl)
@@ -33,7 +33,7 @@ Like we have similarly done with other GSoC projects in the past that added new 
 
 The candidate would have the chance to touch the core parts of the application. Because of this, the ideal candidate for this project is someone who is familiar with how the Plugins Framework works and understands completely how the application leverages it.
 
-### Investigations framework
+### 2. Investigations framework
 <b>Mentors</b>: Matteo Lodi, Daniele Rosetti, Simone Berni
 
 <b>Project URL</b>: [IntelOwl](https://github.com/intelowlproject/IntelOwl)
@@ -51,7 +51,7 @@ Those are the base to the creation of a new, and more complex framework of analy
 
 This candidate would have the chance to create a complete new framework from scratch, based on the already existing IntelOwl’s features. Because of this, the ideal candidate for this project is someone who knows very well how the overall application works. This project is highly experimental so a strong critical spirit and adaptability are required.
 
-### Authentication and maintenance of IntelOwl!
+### 3. Authentication and maintenance of IntelOwl!
 <b>Mentors</b>: Matteo Lodi, Daniele Rosetti, Simone Berni
 
 <b>Project URL</b>: [IntelOwl](https://github.com/intelowlproject/IntelOwl), [pyintelowl](https://github.com/intelowlproject/pyintelowl), [GreedyBear](https://github.com/intelowlproject/GreedyBear) and [IntelOwl site](https://github.com/intelowlproject/intelowlproject.github.io)
