@@ -33,7 +33,7 @@ Like we have similarly done with other GSoC projects in the past that added new 
 
 The candidate would have the chance to touch the core parts of the application. Because of this, the ideal candidate for this project is someone who is familiar with how the Plugins Framework works and understands completely how the application leverages it.
 
-### 2. Investigations framework
+### 2. Investigations framework for IntelOwl!
 <b>Mentors</b>: Matteo Lodi, Daniele Rosetti, Simone Berni
 
 <b>Project URL</b>: [IntelOwl](https://github.com/intelowlproject/IntelOwl)
