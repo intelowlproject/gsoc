@@ -71,5 +71,43 @@ To make the project more complete, we would like the contributor to also take ch
 
 The candidate would have the chance to touch several different parts of the application. Because of this, the ideal candidate for this project is someone who is strongly familiar with IntelOwl codebase.
 
+### 4. More Quark Scripts for CWE Detections!
+<b>Mentors</b>: YuShaing Dang, ShengFeng Lu, KunYu Chen
+
+<b>Project URL</b>: [Quark Engine](https://github.com/quark-engine/quark-engine)
+
+<b>Project hours</b>: 175
+
+<b>Skills required</b>: Python, Object-Oriented Programming
+
+<b>Difficulty</b>: Low/Medium
+
+<b>Description</b>:
+
+Last year, Quark Engine shifted its goal from malware detection to vulnerability digging. The project has proposed Quark scripts to detect CWEs (Common Weakness Enumeration). We now have scripts to detect [15 CWEs](https://github.com/quark-engine/quark-engine#cwe-showcases) on Android binaries. And we’d like to grow this number. 
+
+The candidate is required to have clear and critical thinking. Fully understand the definition of the CWEs and develop the detection logic of the CWEs with the Quark Script APIs. 
+
+The candidate needs to understand a little about the codebase of Quark Engine since we may need to develop new APIs for the other CWEs.
+
+### 5. Make the better versality of Quark Scripts!
+<b>Mentors</b>: YuShaing Dang, ShengFeng Lu, KunYu Chen
+
+<b>Project URL</b>: [Quark Engine](https://github.com/quark-engine/quark-engine)
+
+<b>Project hours</b>: 175
+
+<b>Skills required</b>: Python, Object-Oriented Programming
+
+<b>Difficulty</b>: Low/Medium
+
+<b>Description</b>:
+
+Last year, Quark Engine shifted its goal from malware detection to vulnerability digging. The project has proposed Quark scripts to detect CWEs (Common Weakness Enumeration). We now have scripts to detect [15 CWEs](https://github.com/quark-engine/quark-engine#cwe-showcases) on Android binaries. However, there is more than just one way to detect a particular CWE. 
+
+So, the candidate is required to have clear and critical thinking. Fully understand the definition of the CWEs and develop new detection logic of the CWEs. Making the better versatility of the scripts. 
+
+The candidate needs to understand a little about the codebase of Quark Engine since we may need to develop new APIs for the other CWEs.
+
 ### Generic Important Note
 Please note: if the potential contributor would like to invest more time, he can propose a 350 hours project composed of 2 of the 3 proposed projects requirements together!
