@@ -135,4 +135,6 @@ So, the candidate is required to have clear and critical thinking. Fully underst
 The candidate needs to understand a little about the codebase of Quark Engine since we may need to develop new APIs for the other CWEs.
 
 ### Generic Important Note
-Please note: if the potential contributor would like to invest more time, he can propose a 350 hours project composed of 2 of the 3 proposed projects requirements together!
+Please note: if the potential contributor would like to invest more time, he can propose a 350 hours project composed of 2 projects requirements together!
+
+More generally, the required project hours can be changed at the time of the proposal, based on the actual proposal size, in accordance with the mentors.
