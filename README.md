@@ -2,7 +2,7 @@
 Repository containing [GSoC](https://summerofcode.withgoogle.com/) guidelines, history and ideas lists.
 
 ## History
-Since its birth, under the umbrella of [The Honeynet Project](https://www.honeynet.org), this project has been participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC)!
+Since its birth, under the umbrella of [The Honeynet Project](https://www.honeynet.org), IntelOwl has been participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC)!
 
 Those projects has been successful a lot! They did not only bring IntelOwl to the next level but did open several careers opportunities to the contributors.
 
@@ -18,7 +18,13 @@ Project Summaries (2020-2022):
   - [Aditya Pratap Singh](https://twitter.com/devmrfitz): [IntelOwl v4 improvements](https://www.honeynet.org/2022/09/26/gsoc-2022-project-summary-intelowl-v4-improvements/)
   - [Hussain Khan](https://twitter.com/Hussain41099635): [IntelOwl Go Client](https://www.honeynet.org/2022/09/06/gsoc-2022-project-summary-intelowl-go-client-go-intelowl/)
 
+### 2023 changes
 Since 2023 we are proposing IntelOwl and [GreedyBear](https://github.com/honeynet/GreedyBear) to the GSoC under a new non-profit organization called [IntelOwl Project](https://www.linkedin.com/company/intelowl) (if it gets accepted by Google) and not anymore under the Honeynet Project. Nothing would change for an aspiring new contributor.
+
+Plus, we are hosting projects from our friends of the following organizations/projects:
+* [Quark-Engine](https://github.com/quark-engine)
+* [Qiling](https://github.com/qilingframework)
+* [Certego PcapMonkey](https://github.com/certego/PcapMonkey)
 
 Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
 
