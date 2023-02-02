@@ -71,7 +71,32 @@ To make the project more complete, we would like the contributor to also take ch
 
 The candidate would have the chance to touch several different parts of the application. Because of this, the ideal candidate for this project is someone who is strongly familiar with IntelOwl codebase.
 
-### 4. More Quark Scripts for CWE Detections!
+
+### 4. Login monitoring and alerting project
+<b>Mentors</b>: Federico Foschini
+
+<b>Project URL</b>: [PcapMonkey](https://github.com/certego/PcapMonkey) but a new repo will be created for this project.
+
+<b>Project hours</b>: 175
+
+<b>Skills required</b>: Docker, Python (Django), Javascript, Object-Oriented Programming
+
+<b>Difficulty</b>: Medium
+
+<b>Description</b>:
+This new project is a full feature system that lets user ingest login data from various sources(IE: ssh, nginx, azure, etc.) and through a number of correlation rules it generates alerts when a suspicious login is seen. At the moment the project implements all the basic features like user and alerts visualization, a simple dashboard and correlation rules.
+
+During the GSoC period the candidate should work on the following items:
+
+* Settings and configuration page: this feature will allow fine tuning and configuration of the platform
+* Alert outputs: implement mail, slack and other integration to allow alerts to be forwarded to other systems
+* New log source types: test the project on logs from new sources and write the documentation to allow easy configuration of these sources
+* Improve dashboards by showing additional data
+
+The candidate will work on every part of the application, the code base is not very complex but a good knowledge of Django and some javascript for the web interface is strongly recommended.
+
+
+### 5. More Quark Scripts for CWE Detections!
 <b>Mentors</b>: YuShaing Dang, ShengFeng Lu, KunYu Chen
 
 <b>Project URL</b>: [Quark Engine](https://github.com/quark-engine/quark-engine)
@@ -90,7 +115,7 @@ The candidate is required to have clear and critical thinking. Fully understand 
 
 The candidate needs to understand a little about the codebase of Quark Engine since we may need to develop new APIs for the other CWEs.
 
-### 5. Make the better versality of Quark Scripts!
+### 6. Make the better versality of Quark Scripts!
 <b>Mentors</b>: YuShaing Dang, ShengFeng Lu, KunYu Chen
 
 <b>Project URL</b>: [Quark Engine](https://github.com/quark-engine/quark-engine)
