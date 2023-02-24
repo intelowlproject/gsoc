@@ -72,10 +72,10 @@ To make the project more complete, we would like the contributor to also take ch
 The candidate would have the chance to touch several different parts of the application. Because of this, the ideal candidate for this project is someone who is strongly familiar with IntelOwl codebase.
 
 
-### 4. Login monitoring and alerting project
+### 4. BuffaLogs: Login monitoring and alerting project
 <b>Mentors</b>: Federico Foschini
 
-<b>Project URL</b>: [PcapMonkey](https://github.com/certego/PcapMonkey) but a new repo will be created for this project.
+<b>Project URL</b>: [BuffaLogs](https://github.com/certego/BuffaLogs)
 
 <b>Project hours</b>: 175
 

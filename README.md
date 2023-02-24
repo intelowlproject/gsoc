@@ -24,7 +24,7 @@ Since 2023 we are proposing IntelOwl and [GreedyBear](https://github.com/honeyne
 Plus, we are hosting projects from our friends of the following organizations/projects:
 * [Quark-Engine](https://github.com/quark-engine)
 * [Qiling](https://github.com/qilingframework)
-* [Certego PcapMonkey](https://github.com/certego/PcapMonkey)
+* [Certego BuffaLogs](https://github.com/certego/BuffaLogs)
 
 Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
 
