@@ -19,16 +19,17 @@ Project Summaries (2020-2022):
   - [Hussain Khan](https://twitter.com/Hussain41099635): [IntelOwl Go Client](https://www.honeynet.org/2022/09/06/gsoc-2022-project-summary-intelowl-go-client-go-intelowl/)
 
 ### 2023 changes
-Since 2023 we are proposing IntelOwl and [GreedyBear](https://github.com/honeynet/GreedyBear) to the GSoC under a new non-profit organization called [IntelOwl Project](https://www.linkedin.com/company/intelowl) and not anymore under the Honeynet Project. Nothing would change for an aspiring new contributor.
+Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
 
 Plus, we are hosting projects from our friends of the following organizations/projects:
 * [Quark-Engine](https://github.com/quark-engine)
 * [Qiling](https://github.com/qilingframework)
 * [Certego BuffaLogs](https://github.com/certego/BuffaLogs)
 
-Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
-
-**UPDATE!!** We have not been accepted by Google as a new organization for this year. We'll try again in 2024. Meanwhile we are falling back to [The Honeynet Project](https://www.honeynet.org) umbrella. So please apply there.
+This is the list of the selected projects, starting from 2023:
+- 2023: (New mentors: Federico Foschini and Aditya Narayan Sinha)
+  - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl
+  - [Abheek Tripathy](https://twitter.com/abheekblahblah): Frontend Improvements for Buffalogs and Intelowl
 
 
 ## Be the next contributor!
