@@ -6,7 +6,9 @@ Since its birth, under the umbrella of [The Honeynet Project](https://www.honeyn
 
 Those projects has been successful a lot! They did not only bring IntelOwl to the next level but did open several careers opportunities to the contributors.
 
-Project Summaries (2020-2022):
+### 2020 - 2022
+
+Project Summaries:
 
 - 2020: (Mentor: Matteo Lodi)
   - [Eshaan Bansal](https://twitter.com/eshaan7_): [IntelOwl Work Product](https://www.honeynet.org/2020/08/26/gsoc-2020-work-product%e2%80%8a-%e2%80%8aintel-owl/)
@@ -18,18 +20,20 @@ Project Summaries (2020-2022):
   - [Aditya Pratap Singh](https://twitter.com/devmrfitz): [IntelOwl v4 improvements](https://www.honeynet.org/2022/09/26/gsoc-2022-project-summary-intelowl-v4-improvements/)
   - [Hussain Khan](https://twitter.com/Hussain41099635): [IntelOwl Go Client](https://www.honeynet.org/2022/09/06/gsoc-2022-project-summary-intelowl-go-client-go-intelowl/)
 
-### 2023 changes
-Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
+### 2023 - today
+Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder in this Github repo. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
 
 Plus, we are hosting projects from our friends of the following organizations/projects:
 * [Quark-Engine](https://github.com/quark-engine)
 * [Qiling](https://github.com/qilingframework)
 * [Certego BuffaLogs](https://github.com/certego/BuffaLogs)
 
-This is the list of the selected projects, starting from 2023:
+This is the list of the selected projects with their summaries, starting from 2023:
 - 2023: (New mentors: Federico Foschini and Aditya Narayan Sinha)
-  - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl
-  - [Abheek Tripathy](https://twitter.com/abheekblahblah): Frontend Improvements for Buffalogs and Intelowl
+  - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl (Interrupted midterm)
+  - [Abheek Tripathy](https://twitter.com/abheekblahblah): [Frontend Improvements for Buffalogs and Intelowl](https://intelowlproject.github.io/blogs/gsoc23_project_summary)
+- 2024:
+  - YOU COULD BE HERE!
 
 
 ## Be the next contributor!
