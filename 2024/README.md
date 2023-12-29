@@ -1,4 +1,4 @@
-# Google Summer of Code 2024typ
+# Google Summer of Code 2024
 List of project ideas for contributors applying to the Google Summer of Code program in 2024.
 
 ## Timeline/milestones
