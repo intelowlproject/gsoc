@@ -1,5 +1,5 @@
-# Google Summer of Code 2023
-List of project ideas for contributors applying to the Google Summer of Code program in 2023.
+# Google Summer of Code 2024typ
+List of project ideas for contributors applying to the Google Summer of Code program in 2024.
 
 ## Timeline/milestones
 Please always refer to the [official timeline](https://developers.google.com/open-source/gsoc/timeline).
