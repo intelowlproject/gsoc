@@ -33,7 +33,7 @@ This is the list of the selected projects with their summaries, starting from 20
   - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl (Interrupted midterm)
   - [Abheek Tripathy](https://twitter.com/abheekblahblah): [Frontend Improvements for Buffalogs and Intelowl](https://intelowlproject.github.io/blogs/gsoc23_project_summary)
 - 2024:
-  - YOU COULD BE HERE!
+  - YOU COULD BE HERE! [PROJECTS LIST IS HERE](https://github.com/intelowlproject/gsoc/blob/main/2024/README.md)
 
 
 ## Be the next contributor!
