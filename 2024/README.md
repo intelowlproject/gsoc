@@ -90,7 +90,7 @@ The ideal candidate for this project is someone who understand how IntelOwl's fr
 
 <b>Project hours</b>: 350
 
-<b>Skills required</b>: Python, basic knowledge of the RAG architecture and its necessary libraries (e.g. langchain) and willingness to explore and adapt to new frameworks and open source projects
+<b>Skills required</b>: Python, basic knowledge of the RAG architecture and its necessary libraries (e.g. langchain, chromadb, etc.) and willingness to explore and adapt to new frameworks and open source projects
 
 <b>Difficulty</b>: Medium
 
