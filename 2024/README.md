@@ -83,16 +83,16 @@ The ideal candidate for this project is someone who understand how IntelOwl's fr
 
 
 
-### 4. AI Chatbot for IntelOwl
+### 4. IntelChat: Enhancing Threat Analysis with an LLM-Based Chatbot in IntelOwl
 <b>Mentors</b>: Hugo Gascon, Matteo Lodi, Daniele Rosetti, Simone Berni
 
 <b>Project URL</b>: [IntelOwl](https://github.com/intelowlproject/IntelOwl)
 
 <b>Project hours</b>: 350
 
-<b>Skills required</b>: Docker, Python (Django), Object-Oriented Programming, basic knowledge of LLM
+<b>Skills required</b>: Python, basic knowledge of the RAG architecture and its necessary libraries (e.g. langchain) and willingness to explore and adapt to new frameworks and open source projects
 
-<b>Difficulty</b>: Medium / High
+<b>Difficulty</b>: Medium
 
 <b>Description</b>:
 
