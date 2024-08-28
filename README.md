@@ -32,7 +32,10 @@ This is the list of the selected projects with their summaries, starting from 20
 - 2023: (New mentors: Federico Foschini and Aditya Narayan Sinha)
   - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl (Interrupted midterm)
   - [Abheek Tripathy](https://twitter.com/abheekblahblah): [Frontend Improvements for Buffalogs and Intelowl](https://intelowlproject.github.io/blogs/gsoc23_project_summary)
-- 2024:
+- 2024
+  - [Nilay Gupta](https://x.com/guptanilay1): [New analyzers for IntelOwl](https://intelowlproject.github.io/blogs/gsoc24_new_analyzers_for_intelowl)
+  - [Aryan Bhokare](https://www.linkedin.com/in/aryan-b-3803751a7/): [New Documentation Site for IntelOwl and friends](https://intelowlproject.github.io/blogs/gsoc24_New_documentation_site_summary)
+- 2025:
   - YOU COULD BE HERE! [PROJECTS LIST IS HERE](https://github.com/intelowlproject/gsoc/blob/main/2024/README.md)
 
 
