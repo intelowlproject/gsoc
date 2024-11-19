@@ -36,7 +36,7 @@ This is the list of the selected projects with their summaries, starting from 20
   - [Nilay Gupta](https://x.com/guptanilay1): [New analyzers for IntelOwl](https://intelowlproject.github.io/blogs/gsoc24_new_analyzers_for_intelowl)
   - [Aryan Bhokare](https://www.linkedin.com/in/aryan-b-3803751a7/): [New Documentation Site for IntelOwl and friends](https://intelowlproject.github.io/blogs/gsoc24_New_documentation_site_summary)
 - 2025:
-  - YOU COULD BE HERE! Projects list will be available about February 2025
+  - YOU COULD BE HERE! IF the Honeynet Project is accepted by Google as GSOC Organization, projects list will be available about February 2025
 
 
 ## Be the next contributor!
