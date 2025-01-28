@@ -6,8 +6,6 @@ Since its birth, under the umbrella of [The Honeynet Project](https://www.honeyn
 
 Those projects has been successful a lot! They did not only bring IntelOwl to the next level but did open several careers opportunities to the contributors.
 
-### 2020 - 2022
-
 Project Summaries:
 
 - 2020: (Mentor: Matteo Lodi)
@@ -19,16 +17,6 @@ Project Summaries:
   - [Aditya Narayan Sinha](https://twitter.com/0x0elliot): [Creating Playbooks for IntelOwl](https://www.honeynet.org/2022/10/06/gsoc-2022-project-summary-creating-playbooks-for-intelowl/)
   - [Aditya Pratap Singh](https://twitter.com/devmrfitz): [IntelOwl v4 improvements](https://www.honeynet.org/2022/09/26/gsoc-2022-project-summary-intelowl-v4-improvements/)
   - [Hussain Khan](https://twitter.com/Hussain41099635): [IntelOwl Go Client](https://www.honeynet.org/2022/09/06/gsoc-2022-project-summary-intelowl-go-client-go-intelowl/)
-
-### 2023 - today
-Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder in this Github repo. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
-
-Plus, we are hosting projects from our friends of the following organizations/projects:
-* [Quark-Engine](https://github.com/quark-engine)
-* [Qiling](https://github.com/qilingframework)
-* [Certego BuffaLogs](https://github.com/certego/BuffaLogs)
-
-This is the list of the selected projects with their summaries, starting from 2023:
 - 2023: (New mentors: Federico Foschini and Aditya Narayan Sinha)
   - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl (Interrupted midterm)
   - [Abheek Tripathy](https://twitter.com/abheekblahblah): [Frontend Improvements for Buffalogs and Intelowl](https://intelowlproject.github.io/blogs/gsoc23_project_summary)
@@ -38,6 +26,8 @@ This is the list of the selected projects with their summaries, starting from 20
 - 2025:
   - YOU COULD BE HERE! IF the Honeynet Project is accepted by Google as GSOC Organization, projects list will be available about February 2025
 
+For year 2023 and 2024 you can find the list of the project ideas in this repo.
+For all lists of the project ideas of every year, please refer to the official [Honeynet site](https://www.honeynet.org/gsoc/).
 
 ## Be the next contributor!
 If you are interested in being the next GSoC developer for IntelOwl, join the [Honeynet Slack chat](https://gsoc-slack.honeynet.org/) for more info.
