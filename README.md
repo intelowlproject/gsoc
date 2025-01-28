@@ -6,8 +6,6 @@ Since its birth, under the umbrella of [The Honeynet Project](https://www.honeyn
 
 Those projects has been successful a lot! They did not only bring IntelOwl to the next level but did open several careers opportunities to the contributors.
 
-### 2020 - 2022
-
 Project Summaries:
 
 - 2020: (Mentor: Matteo Lodi)
@@ -19,25 +17,20 @@ Project Summaries:
   - [Aditya Narayan Sinha](https://twitter.com/0x0elliot): [Creating Playbooks for IntelOwl](https://www.honeynet.org/2022/10/06/gsoc-2022-project-summary-creating-playbooks-for-intelowl/)
   - [Aditya Pratap Singh](https://twitter.com/devmrfitz): [IntelOwl v4 improvements](https://www.honeynet.org/2022/09/26/gsoc-2022-project-summary-intelowl-v4-improvements/)
   - [Hussain Khan](https://twitter.com/Hussain41099635): [IntelOwl Go Client](https://www.honeynet.org/2022/09/06/gsoc-2022-project-summary-intelowl-go-client-go-intelowl/)
-
-### 2023 - today
-Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder in this Github repo. For example, for 2023 check [here](https://github.com/intelowlproject/gsoc/blob/main/2023/README.md).
-
-Plus, we are hosting projects from our friends of the following organizations/projects:
-* [Quark-Engine](https://github.com/quark-engine)
-* [Qiling](https://github.com/qilingframework)
-* [Certego BuffaLogs](https://github.com/certego/BuffaLogs)
-
-This is the list of the selected projects with their summaries, starting from 2023:
 - 2023: (New mentors: Federico Foschini and Aditya Narayan Sinha)
   - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl (Interrupted midterm)
   - [Abheek Tripathy](https://twitter.com/abheekblahblah): [Frontend Improvements for Buffalogs and Intelowl](https://intelowlproject.github.io/blogs/gsoc23_project_summary)
-- 2024
+- 2024:
   - [Nilay Gupta](https://x.com/guptanilay1): [New analyzers for IntelOwl](https://intelowlproject.github.io/blogs/gsoc24_new_analyzers_for_intelowl)
   - [Aryan Bhokare](https://www.linkedin.com/in/aryan-b-3803751a7/): [New Documentation Site for IntelOwl and friends](https://intelowlproject.github.io/blogs/gsoc24_New_documentation_site_summary)
-- 2025:
-  - YOU COULD BE HERE! IF the Honeynet Project is accepted by Google as GSOC Organization, projects list will be available about February 2025
+- 2025: (New mentor: Federico Gibertoni)
+  - [Akshit Maheshwary](https://x.com/Akshit20437406): [IntelOwl Improvements: Analyzers and Integrations](https://intelowlproject.github.io/blogs/gsoc_25_new_analyzers_and_integrations)
+  - [Pranjal Gupta](https://github.com/pranjalg1331): [IntelOwl improvements: refactor analyzer tests](https://intelowlproject.github.io/blogs/gsoc25_refactor_analyzer_tests)
+- 2026:
+  - YOU COULD BE HERE! IF the Honeynet Project is accepted by Google as GSOC Organization, projects list will be available about February 2026. We would mostly like to see proposals about GreedyBear and/or applied AI in IntelOwl.
 
+For year 2023 and 2024 you can find the list of the project ideas in this repo.
+For all lists of the project ideas of every year, please refer to the official [Honeynet site](https://www.honeynet.org/gsoc/).
 
 ## Be the next contributor!
 If you are interested in being the next GSoC developer for IntelOwl, join the [Honeynet Slack chat](https://gsoc-slack.honeynet.org/) for more info.
@@ -54,22 +47,22 @@ First of all, and if you have not done that yet, read [the contributor guide](ht
   
 #### 1. Discuss the project idea with the mentor(s)
 
-This is a required step unless you have dived in into the existing codebase and understood everything perfectly (very hard) and the idea you prefer is on the list below.
+This is a required step unless you have dived in into the existing codebase and understood everything perfectly (very hard) and the idea you prefer is already listed in the [Honeynet site](https://www.honeynet.org/gsoc/).
 
 If your idea is not listed, please discuss it with the mentors in our [official channels](https://github.com/intelowlproject/gsoc/blob/main/README.md#official-communication-channels). We're always open to new ideas and won't hesitate on choosing them if you demonstrate to be a good candidate!  
   
 #### 2. Understand that
 
-- You're committing to a project and we ask you to publicly publish your weekly progress on it in Github.
+- You're committing to a project and we ask you to publicly publish your weekly progress on it in Github in the official repositories of the project (We'll invite you in the organization. Create branches there.).
 - We will ask you to give feedback on our mentorship and management continuously. Communication is key to the success of the project.
 - You wholeheartedly agree with the [code of conduct](https://github.com/intelowlproject/IntelOwl/blob/master/CODE_OF_CONDUCT.md).
 - You must tell us if there's any proposed idea that you don't think would fit the timeline or could be boring (yes, we're asking for feedback).
   
 #### 3. Fill out the application form
 
-We recommend you to follow [Google's guide to Writing a Proposal](https://google.github.io/gsocguides/student/writing-a-proposal) and to leverage our [template](https://github.com/intelowlproject/gsoc/blob/main/proposal_template.md).
+We ask you to follow [Google's guide to Writing a Proposal](https://google.github.io/gsocguides/student/writing-a-proposal) and to leverage our [template](https://github.com/intelowlproject/gsoc/blob/main/proposal_template.md).
 
-Once you have a draft proposal please share it with us via our [official channels](https://github.com/intelowlproject/gsoc/blob/main/README.md#official-communication-channels) in Google Docs. In this way we don't have to download anything and we can comment it and request clarifications in a more structured way.
+Once you have a draft proposal please share it with us **in a Google Doc via Slack to all the mentors at the same time**. Do not contact just a single mentor, we won't consider your request. In this way we don't have to download anything and we can all comment it and request clarifications in a more structured way. This is a mandatory step to be accepted to the program.
 
 You can also ask for a review anytime to the community or mentor candidates before the contributor application deadline. It's much easier if you get feedback early than to wait for the last moment.
 
