@@ -20,11 +20,14 @@ Project Summaries:
 - 2023: (New mentors: Federico Foschini and Aditya Narayan Sinha)
   - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of IntelOwl (Interrupted midterm)
   - [Abheek Tripathy](https://twitter.com/abheekblahblah): [Frontend Improvements for Buffalogs and Intelowl](https://intelowlproject.github.io/blogs/gsoc23_project_summary)
-- 2024
+- 2024:
   - [Nilay Gupta](https://x.com/guptanilay1): [New analyzers for IntelOwl](https://intelowlproject.github.io/blogs/gsoc24_new_analyzers_for_intelowl)
   - [Aryan Bhokare](https://www.linkedin.com/in/aryan-b-3803751a7/): [New Documentation Site for IntelOwl and friends](https://intelowlproject.github.io/blogs/gsoc24_New_documentation_site_summary)
-- 2025:
-  - YOU COULD BE HERE! IF the Honeynet Project is accepted by Google as GSOC Organization, projects list will be available about February 2025
+- 2025: (New mentor: Federico Gibertoni)
+  - [Akshit Maheshwary](https://x.com/Akshit20437406): "IntelOwl Improvements: Analyzers and Integrations"
+  - [Pranjal Gupta](https://github.com/pranjalg1331): "IntelOwl improvements: refactor analyzer tests"
+- 2026:
+  - YOU COULD BE HERE! IF the Honeynet Project is accepted by Google as GSOC Organization, projects list will be available about February 2026
 
 For year 2023 and 2024 you can find the list of the project ideas in this repo.
 For all lists of the project ideas of every year, please refer to the official [Honeynet site](https://www.honeynet.org/gsoc/).
