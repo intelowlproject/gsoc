@@ -27,7 +27,8 @@ Project Summaries:
   - [Akshit Maheshwary](https://x.com/Akshit20437406): [IntelOwl Improvements: Analyzers and Integrations](https://intelowlproject.github.io/blogs/gsoc_25_new_analyzers_and_integrations)
   - [Pranjal Gupta](https://github.com/pranjalg1331): [IntelOwl improvements: refactor analyzer tests](https://intelowlproject.github.io/blogs/gsoc25_refactor_analyzer_tests)
 - 2026:
-  - YOU COULD BE HERE! IF the Honeynet Project is accepted by Google as GSOC Organization, projects list will be available about February 2026. We would mostly like to see proposals about GreedyBear and/or applied AI in IntelOwl.
+  - [Francesco Berardi](https://github.com/berardifra): ["Integrating a Self-Deployed LLM Chatbot for Threat Intelligence"](https://intelowlproject.github.io/blogs/gsoc26_llm_chatbot)
+  - [Sanjib Behera](https://github.com/sanjib2006): ["Integration Ecosystem & Connector Optimization"](https://intelowlproject.github.io/blogs/gsoc26_connector_ecosystem)
 
 For year 2023 and 2024 you can find the list of the project ideas in this repo.
 For all lists of the project ideas of every year, please refer to the official [Honeynet site](https://www.honeynet.org/gsoc/).
@@ -43,21 +44,21 @@ Please remember to read and follow the [IntelOwl contributing guidelines rules](
 
 #### 0. Get familiar with GSoC
 
-First of all, and if you have not done that yet, read [the contributor guide](https://google.github.io/gsocguides/student/) which will allow you to understand all this process and how the program works overall. Refer to its left side menu to quick access sections that may interest you the most, although we recommend you to read everything.  
-  
+First of all, and if you have not done that yet, read [the contributor guide](https://google.github.io/gsocguides/student/) which will allow you to understand all this process and how the program works overall. Refer to its left side menu to quick access sections that may interest you the most, although we recommend you to read everything.
+
 #### 1. Discuss the project idea with the mentor(s)
 
 This is a required step unless you have dived in into the existing codebase and understood everything perfectly (very hard) and the idea you prefer is already listed in the [Honeynet site](https://www.honeynet.org/gsoc/).
 
-If your idea is not listed, please discuss it with the mentors in our [official channels](https://github.com/intelowlproject/gsoc/blob/main/README.md#official-communication-channels). We're always open to new ideas and won't hesitate on choosing them if you demonstrate to be a good candidate!  
-  
+If your idea is not listed, please discuss it with the mentors in our [official channels](https://github.com/intelowlproject/gsoc/blob/main/README.md#official-communication-channels). We're always open to new ideas and won't hesitate on choosing them if you demonstrate to be a good candidate!
+
 #### 2. Understand that
 
 - You're committing to a project and we ask you to publicly publish your weekly progress on it in Github in the official repositories of the project (We'll invite you in the organization. Create branches there.).
 - We will ask you to give feedback on our mentorship and management continuously. Communication is key to the success of the project.
 - You wholeheartedly agree with the [code of conduct](https://github.com/intelowlproject/IntelOwl/blob/master/CODE_OF_CONDUCT.md).
 - You must tell us if there's any proposed idea that you don't think would fit the timeline or could be boring (yes, we're asking for feedback).
-  
+
 #### 3. Fill out the application form
 
 We ask you to follow [Google's guide to Writing a Proposal](https://google.github.io/gsocguides/student/writing-a-proposal) and to leverage our [template](https://github.com/intelowlproject/gsoc/blob/main/proposal_template.md).
@@ -69,3 +70,9 @@ You can also ask for a review anytime to the community or mentor candidates befo
 ### Official communication channels
 * [Slack chat](https://gsoc-slack.honeynet.org/)
 * [Twitter](https://twitter.com/intel_owl)
+
+
+## Important note of current GSoC status!
+Since v6.8.0 important changes have been applied to the management of the project which is fully in [Certego](https://certego.net/?utm_source=intelowl) hands now.
+This will impact the future (starting from 2027 on) possible participation in the Google Summer of Code which won't be managed by the author (Matteo Lodi) directly anymore. If you are still interested to participate to the program, please look also at other similar projects to contribute, like [GreedyBear](https://github.com/GreedyBear-Project/GreedyBear).
+For more information please check [the discussion here](https://github.com/intelowlproject/IntelOwl/discussions/3654)
